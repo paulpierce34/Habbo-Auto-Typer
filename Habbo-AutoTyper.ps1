@@ -1,5 +1,6 @@
 ﻿## Simple powershell script to auto-type for you in Habbo Origins (or other applications)
 
+## MODIFY This section
 $SpeechText = "buying bird bath -----> 8 teal ff pods and 3 tubs" ## Set this value to the string you'd like to type
 $SleepTimer = 2 ## Set this value to how long to sleep for
 $ApplicationName = "Habbo Hotel: Origins" ## Habbo process name
